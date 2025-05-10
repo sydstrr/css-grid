@@ -2,7 +2,7 @@
 @import './partials/base';
 
 // Class assignment code below this line
-class.page-wrapper{
+.page-wrapper{
     display: grid;
    grid-template-rows: 70px 1fr auto 50px;
 }
